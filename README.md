@@ -1,6 +1,3 @@
-# Welcome to lea's site
-This is a portfolio site, intended to showcase my work. Please enjoy!
-
 ## LinkedIn
 Check out my [LinkedIn](https://www.linkedin.com/in/leabowman38/) for more information on my work and education history.
 
