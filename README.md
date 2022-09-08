@@ -1,5 +1,5 @@
 # lea's Portfolio Site
-Hi, my name is lea. I have recently returned to the US after 15 years abroad. My background is in Business Analysis (and I took a little detour to User Support for fun) and my future is in data science. Thanks for stopping by my portfolio site, feel free to peruse my LinkedIn and my projects listed below.
+Hi, my name is lea. I have recently returned to the US after 15 years abroad. My background is in business analysis (and I took a little detour to user support for fun) and my future is in data science. I truly love to make technology easier to use and understand. Thanks for stopping by my portfolio site, feel free to peruse my LinkedIn and my projects listed below.
 
 ## LinkedIn
 Check out my [LinkedIn](https://www.linkedin.com/in/leabowman38/) for more information on my work and education history.
