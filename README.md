@@ -7,5 +7,5 @@ Check out my [LinkedIn](https://www.linkedin.com/in/leabowman38/) for more infor
 ## [Google Data Analytics Certificate Capstone Project - Coursera](https://leab38.github.io/cyclistic_capstone_google_cert/Cyclistic-Capstone-Markdown.html)
 I have just completed the [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera and this is my final project (in the form of an R Markdown html page).
 
-## [Booklovers Friend Capstone Project](https://github.com/leab38/Booklovers-friend)
+## [Booklovers Friend Capstone Project](https://leab38.github.io/Booklovers-friend/)
 My capstone for the [Data Incubator Data Science Fellowship](https://www.credly.com/badges/babdb93d-5a03-4c76-a8af-ec6464e11cdc/public_url) was building a site (using Python and SQL) dedicated to helping you figure out what to read next. This website uses two datasets to provide you with recommendations based on your location and your last "5 star" read.
