@@ -3,5 +3,3 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: lea's Portfolio
 description: A portfolio of work by lea bowman.
-navigation: 
-- (file: "README.md", icon: home)
