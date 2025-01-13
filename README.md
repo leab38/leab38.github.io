@@ -10,5 +10,5 @@ I have just completed the [Google Data Analytics Professional Certificate](https
 ## [Booklovers Friend Capstone Project](https://leab38.github.io/Booklovers-friend/)
 My capstone for the [Data Incubator Data Science Fellowship](https://www.credly.com/badges/babdb93d-5a03-4c76-a8af-ec6464e11cdc/public_url) was building a site (using Python and SQL) dedicated to helping you figure out what to read next. This website uses two datasets to provide you with recommendations based on your location and your last "5 star" read.
 
-## [Address Distance](https://github.com/leab38/Address-Distance)
+## [Address Distance](https://leab38.github.io/Address-Distance)
 A small project for taking a list of Skilled Nursing Facilities in my area and calculating their distance from a particular address for prioritizing research into the facilities.
