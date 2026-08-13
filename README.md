@@ -12,3 +12,6 @@ My capstone for the [Data Incubator Data Science Fellowship](https://www.credly.
 
 ## [Address Distance](https://leab38.github.io/Address-Distance)
 A small project for taking a list of Skilled Nursing Facilities in my area and calculating their distance from a particular address for prioritizing research into the facilities.
+
+## [Label Review](https://label-review.streamlit.app/)
+A Streamlit web app that uses PaddleOCR for text recognition on alcohol labels and compares the text recognized with form data input by users.
